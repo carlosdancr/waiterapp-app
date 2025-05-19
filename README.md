@@ -42,8 +42,7 @@ Funcionalidades principais:
    npm run web
    ```
 
-4. **Configuração adicional:**
-   Certifique-se de que o backend (API) esteja rodando em `localhost:3001` ou ajuste a URL conforme necessário.
+> **Observação:** Certifique-se de que o backend da aplicação esteja rodando em `http://localhost:3001` para o funcionamento completo do sistema.
 
 ## 💡 Exemplos de Uso
 
