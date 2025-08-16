@@ -54,4 +54,4 @@ Funcionalidades principais:
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+No momento, **não há um arquivo de licença** definido no repositório.
